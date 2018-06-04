@@ -315,6 +315,35 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.headpage {
+  background-color: #00CB84;
+  color: #fff;
+  text-align: right;
+  justify-content: space-around;
+  font-family: Monospace;
+  padding-top: 90px;
+  padding-bottom: 90px; }
+  .headpage .intro-text {
+    max-width: 675px;
+    text-align: center;
+    margin-bottom: 30px;
+    transform: translate(0, 50%); }
+  .headpage h1 {
+    font-size: 55px; }
+  .headpage p {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    margin-bottom: 90px; }
+
+.navbar {
+  margin-bottom: 0px !important; }
+
+@media (min-width: 1023px) {
+  .headpage {
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px; } }
 /**
  * Syntax highlighting styles
  */
