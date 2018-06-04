@@ -250,7 +250,8 @@
     justify-content: space-around;
     font-family: Monospace;
 
-    padding: 100px 16px;
+    padding-right: 30px;
+    padding-left: 30px;
 
     .intro-text {
     max-width: 675px;
@@ -270,8 +271,7 @@
 @media  (min-width: 1023px){
 
 .headpage{
-    padding-right: 30px;
-    padding-left: 30px;
+    padding: 100px 16px;
   }
 
 
