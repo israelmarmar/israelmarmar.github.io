@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #4d4d4d;
+  background-color: #4d4d4d !important;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -264,7 +264,8 @@ pre {
  * Page content
  */
 .page-content {
-  background-color: #fff; }
+  background-color: #fff;
+  padding: 5px 5px; }
 
 .page-heading {
   font-size: 20px; }
@@ -331,6 +332,27 @@ pre {
 
 .navbar {
   margin-bottom: 0px !important; }
+
+#btns {
+  width: 350px;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.contact-button {
+  padding-top: 13px;
+  padding-left: 10px;
+  width: 40px;
+  height: 40px;
+  border: 0px;
+  background-color: white;
+  border-radius: 50px; }
+  .contact-button .icon {
+    cursor: pointer;
+    margin: 0;
+    margin-bottom: 10px;
+    width: 20px;
+    height: 20px; }
 
 @media (min-width: 1023px) {
   .headpage {
