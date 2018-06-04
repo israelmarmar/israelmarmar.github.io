@@ -169,7 +169,6 @@
  */
 .page-content {
     background-color: #fff;
-    padding: 5px 5px;
 }
 
 .page-heading {
@@ -252,6 +251,8 @@
 
     padding-right: 30px;
     padding-left: 30px;
+
+    padding: 30px;
 
     .intro-text {
     max-width: 675px;
