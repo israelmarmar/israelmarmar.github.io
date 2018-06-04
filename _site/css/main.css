@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #4d4d4d;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -264,7 +264,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  background-color: #fff; }
 
 .page-heading {
   font-size: 20px; }
@@ -320,21 +321,12 @@ pre {
   color: #fff;
   text-align: right;
   justify-content: space-around;
-  font-family: Monospace;
-  padding-top: 90px;
-  padding-bottom: 90px; }
+  font-family: Monospace; }
   .headpage .intro-text {
     max-width: 675px;
-    text-align: center;
-    margin-bottom: 30px;
-    transform: translate(0, 50%); }
+    text-align: center; }
   .headpage h1 {
     font-size: 55px; }
-  .headpage p {
-    text-align: center;
-    font-size: 2em;
-    color: white;
-    margin-bottom: 90px; }
 
 .navbar {
   margin-bottom: 0px !important; }
@@ -342,7 +334,6 @@ pre {
 @media (min-width: 1023px) {
   .headpage {
     padding-right: 30px;
-    padding-bottom: 50px;
     padding-left: 30px; } }
 /**
  * Syntax highlighting styles
