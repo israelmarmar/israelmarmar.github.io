@@ -264,7 +264,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
+  padding: 0 0;
   background-color: #fff; }
 
 .page-heading {
@@ -321,7 +321,9 @@ pre {
   color: #fff;
   text-align: right;
   justify-content: space-around;
-  font-family: Monospace; }
+  font-family: Monospace;
+  padding-right: 30px;
+  padding-left: 30px; }
   .headpage .intro-text {
     max-width: 675px;
     text-align: center; }
@@ -333,8 +335,7 @@ pre {
 
 @media (min-width: 1023px) {
   .headpage {
-    padding-right: 30px;
-    padding-left: 30px; } }
+    padding: 100px 16px; } }
 /**
  * Syntax highlighting styles
  */
