@@ -5,15 +5,13 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jun 2018 08:32:18 -0400</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2018 08:32:18 -0400</lastBuildDate>
+    <pubDate>Wed, 06 Jun 2018 09:34:29 -0400</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 09:34:29 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+        <description>&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -27,8 +25,8 @@
 
 </description>
         <pubDate>Wed, 30 May 2018 08:28:00 -0400</pubDate>
-        <link>/jekyll/update/2018/05/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2018/05/30/welcome-to-jekyll.html</guid>
+        <link>/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

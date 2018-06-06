@@ -4,9 +4,9 @@ layout: default
 
 <header class="headpage container-fluid">
 
-  <div class="intro-text container">
+  <div class="container">
     <h1>
-      Hello World!! :-)
+      printf("Hello World!!, I'm Israel")
     </h1>
 
   </div>
@@ -25,6 +25,10 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        <p>
+        {{post.description}}
+        </p>
       </li>
     {% endfor %}
   </ul>
