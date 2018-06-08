@@ -321,6 +321,11 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+p {
+  font-size: 2rem;
+  font-weight: 300;
+  font-style: normal; }
+
 .headpage {
   background-color: #00CB84;
   color: #fff;
