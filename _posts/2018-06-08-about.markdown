@@ -7,7 +7,7 @@ description: Know a little about me.
 My name is Israel, I was born in Manaus, Amazonas and currently I am a student in computer engineering at UFAM, IT trainee and Full stack developer.
 I have studied IT Fundamentals at IFAM, now I am always studying new frameworks and web technologies.
 
-##Skills
+## Skills
 
 * Responsive Design
 * CSS (Vannila, Sass, Bootstrap)
