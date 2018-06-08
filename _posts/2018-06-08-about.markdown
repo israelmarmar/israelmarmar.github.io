@@ -4,6 +4,12 @@ title:  "About me"
 date:   2018-06-08 10:40:00 -0400
 description: Know a little about me.
 ---
+
+{:.profile}
+![](https://avatars0.githubusercontent.com/u/14979578?s=460&v=4)
+
+## About me
+
 My name is Israel, I was born in Manaus, Amazonas and currently I am a student in computer engineering at UFAM, IT trainee and Full stack developer.
 I have studied IT Fundamentals at IFAM, now I am always studying new frameworks and web technologies.
 
