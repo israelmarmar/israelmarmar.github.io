@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jun 2018 12:42:37 -0400</pubDate>
-    <lastBuildDate>Fri, 08 Jun 2018 12:42:37 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Jun 2018 08:04:55 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Jun 2018 08:04:55 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,10 +28,19 @@ I have studied IT Fundamentals at IFAM, now I am always studying new frameworks 
   &lt;li&gt;Automation (Webpack, Npm)&lt;/li&gt;
   &lt;li&gt;Git&lt;/li&gt;
   &lt;li&gt;PHP&lt;/li&gt;
+  &lt;li&gt;MySQL - MongoDB&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/israelmarmar&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/israelmarquesmartins/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/isrmarmar&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#115;&amp;#114;&amp;#097;&amp;#101;&amp;#108;&amp;#095;&amp;#098;&amp;#097;&amp;#116;&amp;#105;&amp;#115;&amp;#116;&amp;#097;&amp;#046;&amp;#097;&amp;#109;&amp;#064;&amp;#104;&amp;#111;&amp;#116;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;E-mail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Fri, 08 Jun 2018 10:40:00 -0400</pubDate>
+        <pubDate>Fri, 08 Jun 2018 00:00:00 -0400</pubDate>
         <link>/about/</link>
         <guid isPermaLink="true">/about/</guid>
         

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "About me"
-date:   2018-06-08 10:40:00 -0400
 description: Know a little about me.
 ---
 
@@ -22,4 +21,11 @@ I have studied IT Fundamentals at IFAM, now I am always studying new frameworks 
 * Automation (Webpack, Npm)
 * Git
 * PHP
+* MySQL - MongoDB
 
+## Contact
+
+* [Github](https://github.com/israelmarmar)
+* [Linkedin](https://www.linkedin.com/in/israelmarquesmartins/)
+* [Twitter](https://twitter.com/isrmarmar)
+* [E-mail](mailto:israel_batista.am@hotmail.com)
