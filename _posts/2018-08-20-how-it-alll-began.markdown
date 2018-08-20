@@ -29,7 +29,7 @@ CodeAcademy is an online interactive platform that offers several languages and 
 There are many things around web programming that I did not know, thus I have begun to read several sites and blogs about front-end and back-end. I have gotten into the web development. I learned about new frameworks and patterns for front-end and back-end.
 <br />
 <br />
-* [CSS-TRICKS](https://css-tricks.com/)
+* [Css-Tricks](https://css-tricks.com/)
 * [Tableless](https://tableless.com.br/)
 * [FreeCodeCamp Medium](https://medium.freecodecamp.org)
 * [Willian Justen](https://willianjusten.com.br)
