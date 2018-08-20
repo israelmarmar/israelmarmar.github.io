@@ -17,8 +17,9 @@ My name is Israel, I was born in Manaus, Amazonas and I am currently a computer 
 * CSS (Vannila, Sass, Bootstrap)
 * Javascript (ES6/7, NodeJS)
 * React / Redux
+* Angular
 * Automation (Webpack, Npm)
-* Git
+* Git (GitHub, GitLab)
 * PHP
 * MySQL - MongoDB
 

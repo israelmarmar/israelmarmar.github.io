@@ -3,11 +3,69 @@
   <channel>
     <title>Israel Martins</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Aug 2018 10:41:34 -0400</pubDate>
-    <lastBuildDate>Thu, 09 Aug 2018 10:41:34 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Aug 2018 09:17:24 -0400</pubDate>
+    <lastBuildDate>Mon, 20 Aug 2018 09:17:24 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>How it all began</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+Working in an IT job in a foreign country has always been my ambition. I was a computer engineer student and already know how to program. I searched for any jobs in my field through Linkedin. But the jobs I found required knowledge in certain web patterns and languages. To meet the requirements, I searched online platforms to learn programming languages and web frameworks.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;online-interactive-platforms&quot;&gt;Online interactive platforms&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+CodeAcademy is an online interactive platform that offers several languages and frameworks that I can learn and program. FreeCodeCamp is another that I found to learn new languages and front-end/back-end patterns for web development and to create projects.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;CodeAcademy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/&quot;&gt;FreeCodeCamp&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blogs-and-sites&quot;&gt;Blogs and sites&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+There are many things around web programming that I did not know, thus I have begun to read several sites and blogs about front-end and back-end. I have gotten into the web development. I learned about new frameworks and patterns for front-end and back-end.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/&quot;&gt;CSS-TRICKS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tableless.com.br/&quot;&gt;Tableless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org&quot;&gt;FreeCodeCamp Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://willianjusten.com.br&quot;&gt;Willian Justen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+After all this, I can develop several projects in my GitHub and create a portfolio. I get my first training in development. I continue to long for new jobs and leaving my country remains my goal.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/israelmarmar&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://israelmarmar.github.io/portifolio/&quot;&gt;Portifolio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
+        <link>/how-it-alll-began/</link>
+        <guid isPermaLink="true">/how-it-alll-began/</guid>
+        
+        
+      </item>
     
       <item>
         <title>About me</title>
@@ -24,8 +82,9 @@
   &lt;li&gt;CSS (Vannila, Sass, Bootstrap)&lt;/li&gt;
   &lt;li&gt;Javascript (ES6/7, NodeJS)&lt;/li&gt;
   &lt;li&gt;React / Redux&lt;/li&gt;
+  &lt;li&gt;Angular&lt;/li&gt;
   &lt;li&gt;Automation (Webpack, Npm)&lt;/li&gt;
-  &lt;li&gt;Git&lt;/li&gt;
+  &lt;li&gt;Git (GitHub, GitLab)&lt;/li&gt;
   &lt;li&gt;PHP&lt;/li&gt;
   &lt;li&gt;MySQL - MongoDB&lt;/li&gt;
 &lt;/ul&gt;
@@ -40,8 +99,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 08 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/about/</link>
-        <guid isPermaLink="true">http://localhost:4000/about/</guid>
+        <link>/about/</link>
+        <guid isPermaLink="true">/about/</guid>
         
         
       </item>
