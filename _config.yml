@@ -9,8 +9,8 @@
 title: Israel Martins
 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: isrmarmar
+github_username:  israelmarmar
 
 # Build settings
 markdown: kramdown

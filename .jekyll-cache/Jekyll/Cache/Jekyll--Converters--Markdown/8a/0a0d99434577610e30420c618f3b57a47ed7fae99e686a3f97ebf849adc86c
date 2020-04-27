@@ -1,0 +1,29 @@
+I"<p class="profile"><img src="https://avatars0.githubusercontent.com/u/14979578?s=460&amp;v=4" alt="" /></p>
+
+<h2 id="about-me">About me</h2>
+
+<p>My name is Israel, I was born in Manaus, Amazonas and I am currently a computer engineering student at UFAM. I am also an IT trainee and a full stack developer. I have studied IT fundamentals at IFAM. Nowadays I am studying new frameworks and web technologies.</p>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li>Responsive Design</li>
+  <li>CSS (Vannila, Sass, Bootstrap)</li>
+  <li>Javascript (ES6/7, NodeJS)</li>
+  <li>React / Redux</li>
+  <li>Angular</li>
+  <li>Automation (Webpack, Npm)</li>
+  <li>Git (GitHub, GitLab)</li>
+  <li>PHP</li>
+  <li>MySQL - MongoDB</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li><a href="https://github.com/israelmarmar">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/israelmarquesmartins/">Linkedin</a></li>
+  <li><a href="https://twitter.com/isrmarmar">Twitter</a></li>
+  <li><a href="mailto:israel_batista.am@hotmail.com">E-mail</a></li>
+</ul>
+:ET
