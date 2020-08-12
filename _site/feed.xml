@@ -3,11 +3,32 @@
   <channel>
     <title>Israel Martins</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Apr 2020 12:47:58 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2020 12:47:58 -0400</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Aug 2020 18:53:30 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2020 18:53:30 -0400</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>My experience with Flutter</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+I already have developed cross-platform apps in React Native, but a startup has offered a job for me but with requirement Flutter knowledge. I begin to study Flutter and, I have noticed some differences with React Native.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The first thing that I realized was is the language, while the React Native uses JavaScript, the Flutter apps are implemented with Dart language. Who is accustomed to the JavaScript language and React framework will develop quickly, but the Flutter developers need to program a language that is not very popular.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The second thing is Flutter doesn’t have any tools like Expo from React Native, which allows testing apps through QR code. It’s a little complicated to test apps with Flutter because it needs to install Android Studio, and React Native doesn’t need it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Although I speak more cons points, I continue using Flutter in my projects, and I either can develop in React Native. I consider the requests to my clients, but if I create a mobile app, I will build it in React Native.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Aug 2020 00:00:00 -0400</pubDate>
+        <link>/my-experience-with-flutter/</link>
+        <guid isPermaLink="true">/my-experience-with-flutter/</guid>
+        
+        
+      </item>
     
       <item>
         <title>FreeCodeCamp</title>
@@ -54,8 +75,8 @@ The platform allows me to know new technologies and patterns through interactive
 &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/freecodecamp/</link>
-        <guid isPermaLink="true">http://localhost:4000/freecodecamp/</guid>
+        <link>/freecodecamp/</link>
+        <guid isPermaLink="true">/freecodecamp/</guid>
         
         
       </item>
@@ -112,8 +133,8 @@ After all this, I can develop several projects in my GitHub and create a portfol
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/how-it-alll-began/</link>
-        <guid isPermaLink="true">http://localhost:4000/how-it-alll-began/</guid>
+        <link>/how-it-alll-began/</link>
+        <guid isPermaLink="true">/how-it-alll-began/</guid>
         
         
       </item>
@@ -150,8 +171,8 @@ After all this, I can develop several projects in my GitHub and create a portfol
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 08 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/about/</link>
-        <guid isPermaLink="true">http://localhost:4000/about/</guid>
+        <link>/about/</link>
+        <guid isPermaLink="true">/about/</guid>
         
         
       </item>
